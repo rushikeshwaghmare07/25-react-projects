@@ -1,5 +1,6 @@
 import './App.css'
 import Accordion from './components/Accordion'
+import PaginatedList from './components/Pagination/PaginatedList'
 import RandomColor from './components/RandomColorGenerator'
 import StarRating from './components/star-rating'
 
@@ -14,7 +15,10 @@ function App() {
       {/* <RandomColor /> */}
 
       {/* Star Rating */}
-      <StarRating/>
+      {/* <StarRating/> */}
+
+      {/* Pagination */}
+      <PaginatedList/>
     </>
   )
 }
