@@ -12,3 +12,6 @@
 ## Project 4 - Pagination App
 ![Screenshot 2024-09-25 210015](https://github.com/user-attachments/assets/c9142f7c-2aef-4d48-a398-8ea6ed6ded00)
 
+## Project 5 - QR-Code Generator
+![Screenshot 2024-09-26 224331](https://github.com/user-attachments/assets/aa4fa6b5-ffa1-4ae5-adf6-dd00933ed399)
+
