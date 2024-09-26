@@ -8,3 +8,7 @@
 
 ## Project 3 - Star Rating
 ![star rating](https://github.com/user-attachments/assets/0fd6aa3a-75eb-494e-b757-30f19cb34ff4)
+
+## Project 4 - Pagination App
+![Screenshot 2024-09-25 210015](https://github.com/user-attachments/assets/c9142f7c-2aef-4d48-a398-8ea6ed6ded00)
+
