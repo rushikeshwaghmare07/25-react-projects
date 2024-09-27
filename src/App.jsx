@@ -4,6 +4,7 @@ import PaginatedList from './components/Pagination/PaginatedList'
 import RandomColor from './components/RandomColorGenerator'
 import StarRating from './components/star-rating'
 import QRCodeGenerator from './components/QRCodeGenerator'
+import LoadMoreData from './components/LoadMoreData'
 
 function App() {
 
@@ -22,7 +23,10 @@ function App() {
       {/* <PaginatedList/> */}
 
       {/* QRCodeGenerator */}
-      <QRCodeGenerator />
+      {/* <QRCodeGenerator /> */}
+
+      {/* Load-More-Data */}
+      <LoadMoreData />
     </>
   )
 }
