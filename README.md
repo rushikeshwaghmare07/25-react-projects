@@ -15,3 +15,6 @@
 ## Project 5 - QR-Code Generator
 ![Screenshot 2024-09-26 224331](https://github.com/user-attachments/assets/aa4fa6b5-ffa1-4ae5-adf6-dd00933ed399)
 
+## Project 6 - Load More Data Buttton
+![Screenshot 2024-09-27 203336](https://github.com/user-attachments/assets/6af48c08-c9f4-4905-852b-7c22833fdf8e)
+
