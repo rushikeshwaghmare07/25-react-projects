@@ -64,7 +64,7 @@ export default function LoadMoreData() {
           {disableButton ? 'No More Products' : 'Load More Products'}
         </button>
         {disableButton && (
-          <p className="mt-2 text-gray-600">You have reached 100 products</p>
+          <p className="mt-2 text-gray-600">You have reached 100 products!!</p>
         )}
       </div>
     </div>
