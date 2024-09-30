@@ -18,3 +18,7 @@
 ## Project 6 - Load More Data Buttton
 ![Screenshot 2024-09-27 203336](https://github.com/user-attachments/assets/6af48c08-c9f4-4905-852b-7c22833fdf8e)
 
+## Project 7 - Tic-Tac-Toe
+![Screenshot 2024-09-30 210751](https://github.com/user-attachments/assets/7edf96c2-23bd-41e4-a6a6-7ac67dd95246)
+
+
