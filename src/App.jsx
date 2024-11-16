@@ -6,6 +6,8 @@ import StarRating from './components/star-rating'
 import QRCodeGenerator from './components/QRCodeGenerator'
 import LoadMoreData from './components/LoadMoreData'
 import TicTacToe from './components/TicTacToe'
+import Modal from './components/Modal/Modal'
+import Meal from './components/Meal-API/Meal'
 
 function App() {
 
@@ -30,7 +32,8 @@ function App() {
       {/* <LoadMoreData /> */}
 
       {/* Tic-Tac-Toe */}
-      <TicTacToe />
+      {/* <TicTacToe /> */}
+      <Meal />
     </>
   )
 }
