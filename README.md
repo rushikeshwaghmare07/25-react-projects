@@ -21,4 +21,8 @@
 ## Project 7 - Tic-Tac-Toe
 ![Screenshot 2024-09-30 210751](https://github.com/user-attachments/assets/7edf96c2-23bd-41e4-a6a6-7ac67dd95246)
 
+## Project 8 : Fetch Meal API Using Axios
+![Screenshot 2024-11-16 231825](https://github.com/user-attachments/assets/7efef0fe-4ad8-4d09-87a7-ebb671344487)
+
+
 
