@@ -8,6 +8,7 @@ import LoadMoreData from './components/LoadMoreData'
 import TicTacToe from './components/TicTacToe'
 import Meal from './components/Meal-API/Meal'
 import TabTest from './components/CustomTabs/tab-test'
+import Emoji from './components/Emoji-Picker/Emoji'
 
 function App() {
 
@@ -38,7 +39,10 @@ function App() {
       {/* <Meal /> */}
 
       {/* Custom Tabs */}
-      <TabTest />
+      {/* <TabTest /> */}
+
+      {/* Emoji Picker */}
+      <Emoji />
     </>
   )
 }
