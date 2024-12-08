@@ -9,6 +9,7 @@ import TicTacToe from './components/TicTacToe'
 import Meal from './components/Meal-API/Meal'
 import TabTest from './components/CustomTabs/tab-test'
 import Emoji from './components/Emoji-Picker/Emoji'
+import LyricsFinder from './components/Lyrics-Finder/LyricsFinder'
 
 function App() {
 
@@ -42,7 +43,10 @@ function App() {
       {/* <TabTest /> */}
 
       {/* Emoji Picker */}
-      <Emoji />
+      {/* <Emoji /> */}
+
+      {/* Lyrics FInder */}
+      <LyricsFinder />
     </>
   )
 }
