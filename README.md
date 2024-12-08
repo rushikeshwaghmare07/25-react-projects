@@ -30,5 +30,13 @@
 ## Project 10 : Emoji Picker
 ![Screenshot 2024-12-06 221417](https://github.com/user-attachments/assets/717981c1-1954-47b6-b2cc-46259d48f0f1)
 
+## Project 11 : Lyrics Finder
+### Demo 1
+![Screenshot 2024-12-08 231315](https://github.com/user-attachments/assets/c11ae848-fb47-4ab4-9ea4-446e98144a88)
+
+### Demo 2
+![Screenshot 2024-12-08 231257](https://github.com/user-attachments/assets/af44c0c3-23f5-43f9-93d2-942ec0c007e7)
+
+
 
 
