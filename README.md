@@ -27,6 +27,8 @@
 ## Project 9 : Cuatom Tabs
 ![Screenshot 2024-11-23 230123](https://github.com/user-attachments/assets/a2a940d1-45ab-4f35-847f-3a3122e36e7b)
 
+## Project 10 : Emoji Picker
+![Screenshot 2024-12-06 221417](https://github.com/user-attachments/assets/717981c1-1954-47b6-b2cc-46259d48f0f1)
 
 
 
